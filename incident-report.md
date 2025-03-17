@@ -113,4 +113,4 @@ dangerouslySetInnerHTML={{ __html: msg.content }}
 </div>
 ```
 
-6. Добавил хэширование паролей с помощью bycrypt
+6. Добавил хэширование паролей с помощью bycrypt.
